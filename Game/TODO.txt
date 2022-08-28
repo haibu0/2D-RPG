@@ -1,0 +1,2 @@
+player death animation
+slime attack/movement
